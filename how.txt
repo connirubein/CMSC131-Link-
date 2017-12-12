@@ -1,0 +1,24 @@
+ ##############################################################################
+
+        /= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =\
+       /= = = = = = = = = = H O W   T O   P L A Y = = = = = = = = = = =\
+      ||                                                               ||
+      ||   	LINK is a 2-Player game of a 4-in-a-row game.          ||
+      ||                                                               ||
+      ||      The players take turns in placing an X in the board.     ||
+      ||     The X fall down, occupying the next available space       ||
+      ||                      within the column.                       ||
+      ||        The goal is to form a 4-Xed line that is either        ||
+      ||              horizontal, vertical, or, diagonal.              ||
+      ||                                                               ||
+      ||      The player who reaches the goal first is the winner.     ||
+      ||   Scores are based on the number of moves the player makes.   ||
+      ||                                                               ||
+      ||        Syntax of input: p<1 or 2> <space> c<1 to 6>           ||
+       \= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =/
+        \= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =/ 
+                           /= = = = = = = = = =\
+                          ||   BACK TO HOME    ||
+                           \= = = = = = = = = =/
+
+ ##############################################################################
